@@ -8,8 +8,6 @@ import wave
 from collections import namedtuple
 
 import numpy as np
-import pyogg
-import miniaudio
 
 from .helpers import LimitingPool
 from .io import copy_remote, is_remote_path, open_remote, remove_remote

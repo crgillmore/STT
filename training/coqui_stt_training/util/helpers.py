@@ -6,7 +6,6 @@ import time
 from collections import namedtuple
 from multiprocessing import Pool
 
-import semver
 
 KILO = 1024
 KILOBYTE = 1 * KILO
